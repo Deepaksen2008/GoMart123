@@ -82,31 +82,33 @@ This repository contains a microservices-based project that leverages various mo
 <a href="https://github.com/Deepaksen2008/GoMart/assets/155048041/73c285cd-7d99-4343-82b0-f93ade3e55d2">
   <img src="https://github.com/Deepaksen2008/GoMart/assets/155048041/73c285cd-7d99-4343-82b0-f93ade3e55d2" alt="Home-page" width="400">
 </a>
-
+<div className="grid">
 <a href="https://github.com/Deepaksen2008/GoMart/assets/155048041/5ba05d42-d4da-4f4a-b5eb-9dfc92b46570">
-  <img src="https://github.com/Deepaksen2008/GoMart/assets/155048041/5ba05d42-d4da-4f4a-b5eb-9dfc92b46570" alt="Placed_order" width="400">
+  <img src="https://github.com/Deepaksen2008/GoMart/assets/155048041/5ba05d42-d4da-4f4a-b5eb-9dfc92b46570" alt="Placed_order" width="300">
 </a>
 
 <a href="https://github.com/Deepaksen2008/GoMart/assets/155048041/c6e17f8c-ead2-49bc-8f78-98e5565915c5">
-  <img src="https://github.com/Deepaksen2008/GoMart/assets/155048041/c6e17f8c-ead2-49bc-8f78-98e5565915c5" alt="Order-details" width="400">
+  <img src="https://github.com/Deepaksen2008/GoMart/assets/155048041/c6e17f8c-ead2-49bc-8f78-98e5565915c5" alt="Order-details" width="300">
 </a>
 
 <a href="https://github.com/Deepaksen2008/GoMart/assets/155048041/5f3dafb9-700c-4732-ad4b-a8e832c169de">
-  <img src="https://github.com/Deepaksen2008/GoMart/assets/155048041/5f3dafb9-700c-4732-ad4b-a8e832c169de" alt="My-Order" width="400">
+  <img src="https://github.com/Deepaksen2008/GoMart/assets/155048041/5f3dafb9-700c-4732-ad4b-a8e832c169de" alt="My-Order" width="300">
 </a>
+</div>
 
 ## Admin view
 
-<a href="https://github.com/Deepaksen2008/GoMart/assets/155048041/0536b742-2a0f-436e-bb95-2b5aa5299050">
-  <img src="https://github.com/Deepaksen2008/GoMart/assets/155048041/0536b742-2a0f-436e-bb95-2b5aa5299050" alt="Admin-list_of_item" width="400">
+<a href="https://github.com/Deepaksen2008/GoMart/assets/155048041/44c4fd1c-e1f8-445f-97da-b2821ef6d913">
+  <img src="https://github.com/Deepaksen2008/GoMart/assets/155048041/44c4fd1c-e1f8-445f-97da-b2821ef6d913" alt="Admin-Ordered-items" width="300">
 </a>
 
-<a href="https://github.com/Deepaksen2008/GoMart/assets/155048041/44c4fd1c-e1f8-445f-97da-b2821ef6d913">
-  <img src="https://github.com/Deepaksen2008/GoMart/assets/155048041/44c4fd1c-e1f8-445f-97da-b2821ef6d913" alt="Admin-Ordered-items" width="400">
+<a href="https://github.com/Deepaksen2008/GoMart/assets/155048041/0536b742-2a0f-436e-bb95-2b5aa5299050">
+  <img src="https://github.com/Deepaksen2008/GoMart/assets/155048041/0536b742-2a0f-436e-bb95-2b5aa5299050" alt="Admin-list_of_item" width="300">
 </a>
+
 
 <a href="https://github.com/Deepaksen2008/GoMart/assets/155048041/c0beda57-32f0-45fb-ac80-87abc044fd65">
-  <img src="https://github.com/Deepaksen2008/GoMart/assets/155048041/c0beda57-32f0-45fb-ac80-87abc044fd65" alt="Admin-Add_items" width="400">
+  <img src="https://github.com/Deepaksen2008/GoMart/assets/155048041/c0beda57-32f0-45fb-ac80-87abc044fd65" alt="Admin-Add_items" width="300">
 </a>
 
 
